@@ -1,0 +1,26 @@
+﻿@model Remedios
+@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Posso Beber??? </h1>
+
+    <form method="post" asp-controller="Remedios" asp-action="Buscar">
+
+        <p>
+            <label asp-for="Nome">Medicamento:</label>
+            <input asp-for="Nome">
+        </p>    
+        <p>
+        <input type="submit" value="Buscar">
+        </p>
+    </form>
+
+    <p>
+        @ViewBag.mensagem
+    </p>
+
+</div>

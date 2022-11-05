@@ -1,0 +1,32 @@
+@model Remedios
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Cadastro";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p class="text-danger">@ViewData["mensagem"]</p>
+
+<form method="post" asp-action="Inserir">
+
+    <p>
+        <label asp-for="Nome">Nome</label>
+        <input asp-for="Nome">
+    </p>
+
+    <p>
+        <label asp-for="Posso">Posso beber?</label>
+        <input asp-for="Posso">
+    </p>
+
+    <p>
+        <label asp-for="Descricao">Descrição</label>
+        <input asp-for="Descricao" type="mediumtext">
+    </p>
+     
+    <input asp-for="Usuario" value=@Context.Session.GetInt32("IdUsuario") type="hidden">
+    <p>
+        <input type="submit" value="Cadastrar">
+    </p>
+
+</form>

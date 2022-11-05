@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z7f500OG0pSakCZRxoSBpR6rVmemG4+OWKAttXm2gPRb+a1OC3zImU9LsQBaGAO/mfIU/XMGgjnddyRezhpipg==",
+  "success": true,
+  "projectFilePath": "C:\\HTML-CSS\\Senac\\ProjetoIntegrador\\PossoBeber - Copia\\PossoBeber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\mysqlconnector\\2.1.7\\mysqlconnector.2.1.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

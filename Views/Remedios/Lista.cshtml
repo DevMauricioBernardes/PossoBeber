@@ -1,0 +1,57 @@
+@using Microsoft.AspNetCore.Http;
+@model List<Remedios>
+@{
+    ViewData["Title"] = "Lista";
+    }
+
+    <table class="table">
+        <thead>
+            <tr>
+                 @if (Context.Session.GetInt32("IdUsuario")==null)
+                {  //usuario deslogado ve isso                    
+                    <th>Nome</th>
+                    <th>Posso beber?</th>
+                    <th>Descrição</th>                    
+                }  else{ //usuario logado ve isso
+                    <th>Id</th>
+                    <th>Nome</th>
+                    <th>Posso beber?</th>
+                    <th>Descrição</th>                    
+                    <th>Usuário</th>
+                    <th>Editar</th>
+                }
+            </tr>
+        </thead>
+            
+        <tbody>
+            @foreach (Remedios u in Model)
+            {                
+                <tr>
+                    @if (Context.Session.GetInt32("IdUsuario")==null)
+                    {  //usuario deslogado ve isso                    
+                        <td>@u.Nome</td>
+                        <td>@u.Posso</td>
+                        <td>@u.Descricao</td>                                        
+                    }  else{ //usuario logado ve isso
+                        <td>@u.Id</td>
+                        <td>@u.Nome</td>
+                        <td>@u.Posso</td>
+                        <td>@u.Descricao</td>                    
+                        <td>@u.Usuario</td>
+                        <td>
+                            <a href="/Remedios/Alterar?Id=@u.Id">Alterar</a> |
+                            <a href="/Remedios/Excluir?Id=@u.Id">Excluir</a>
+                        </td>                    
+                    }
+                </tr>
+            }            
+        </tbody>    
+    </table>
+
+@if (Context.Session.GetInt32("IdUsuario")==null){  
+    //usuario deslogado ve isso
+
+}  else{
+    //usuario logado ve isso
+    <a href="/Remedios/Inserir">Adicionar Medicamento</a>
+}

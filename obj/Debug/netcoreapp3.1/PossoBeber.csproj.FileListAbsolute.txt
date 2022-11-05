@@ -1,0 +1,136 @@
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.exe
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.deps.json
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.runtimeconfig.json
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.runtimeconfig.dev.json
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.dll
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.pdb
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.Views.dll
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.Views.pdb
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Note\Documents\PossoBeber\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csproj.AssemblyReference.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.AssemblyInfo.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorAssemblyInfo.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorAssemblyInfo.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\PossoBeber.StaticWebAssets.Manifest.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.TagHelpers.input.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.TagHelpers.output.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorCoreGenerate.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Alterar.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Buscar.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Inserir.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Lista.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Alterar.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Inserir.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorTargetAssemblyInfo.cache
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorTargetAssemblyInfo.cs
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.Views.pdb
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csproj.CopyComplete
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.dll
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.pdb
+C:\Users\Note\Documents\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.genruntimeconfig.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.exe
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.deps.json
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.runtimeconfig.json
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.runtimeconfig.dev.json
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.dll
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.pdb
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.Views.dll
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.Views.pdb
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csprojAssemblyReference.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.AssemblyInfoInputs.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.AssemblyInfo.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csproj.CoreCompileInputs.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.MvcApplicationPartsAssemblyInfo.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorAssemblyInfo.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorAssemblyInfo.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.TagHelpers.input.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.TagHelpers.output.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorCoreGenerate.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Alterar.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Inserir.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Lista.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Alterar.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Inserir.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorTargetAssemblyInfo.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.RazorTargetAssemblyInfo.cs
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.Views.pdb
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csproj.CopyComplete
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\PossoBeber.StaticWebAssets.Manifest.cache
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\PossoBeber.StaticWebAssets.xml
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.dll
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.pdb
+C:\HTML-CSS\Senac\Projeto Integrador\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.genruntimeconfig.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\PossoBeber.exe
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\PossoBeber.deps.json
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\PossoBeber.runtimeconfig.json
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\PossoBeber.runtimeconfig.dev.json
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\PossoBeber.dll
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\PossoBeber.pdb
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\PossoBeber.Views.dll
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\PossoBeber.Views.pdb
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.csprojAssemblyReference.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.AssemblyInfoInputs.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.AssemblyInfo.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.csproj.CoreCompileInputs.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.MvcApplicationPartsAssemblyInfo.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.RazorAssemblyInfo.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.RazorAssemblyInfo.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.TagHelpers.input.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.TagHelpers.output.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.RazorCoreGenerate.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Alterar.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Inserir.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Lista.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Alterar.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Inserir.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.RazorTargetAssemblyInfo.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.RazorTargetAssemblyInfo.cs
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.Views.pdb
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.csproj.CopyComplete
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\staticwebassets\PossoBeber.StaticWebAssets.Manifest.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\staticwebassets\PossoBeber.StaticWebAssets.xml
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.dll
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.pdb
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\PossoBeber.genruntimeconfig.cache
+C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Buscar.cshtml.g.cs
