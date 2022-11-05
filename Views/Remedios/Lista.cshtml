@@ -39,8 +39,8 @@
                         <td>@u.Descricao</td>                    
                         <td>@u.Usuario</td>
                         <td>
-                            <a href="/Remedios/Alterar?Id=@u.Id">Alterar</a> |
-                            <a href="/Remedios/Excluir?Id=@u.Id">Excluir</a>
+                            <a class="btn btn-warning" href="/Remedios/Alterar?Id=@u.Id">Alterar</a> |
+                            <a  class="btn btn-danger" href="/Remedios/Excluir?Id=@u.Id">Excluir</a>
                         </td>                    
                     }
                 </tr>
@@ -53,5 +53,5 @@
 
 }  else{
     //usuario logado ve isso
-    <a href="/Remedios/Inserir">Adicionar Medicamento</a>
+    <a class="btn btn-success" href="/Remedios/Inserir">Adicionar Medicamento</a>
 }

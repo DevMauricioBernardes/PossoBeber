@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HTML-CSS\\Senac\\ProjetoIntegrador\\PossoBeber - Copia\\PossoBeber.csproj": {}
+    "C:\\HTML-CSS\\Senac\\ProjetoIntegradorII\\PossoBeber\\PossoBeber.csproj": {}
   },
   "projects": {
-    "C:\\HTML-CSS\\Senac\\ProjetoIntegrador\\PossoBeber - Copia\\PossoBeber.csproj": {
+    "C:\\HTML-CSS\\Senac\\ProjetoIntegradorII\\PossoBeber\\PossoBeber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HTML-CSS\\Senac\\ProjetoIntegrador\\PossoBeber - Copia\\PossoBeber.csproj",
+        "projectUniqueName": "C:\\HTML-CSS\\Senac\\ProjetoIntegradorII\\PossoBeber\\PossoBeber.csproj",
         "projectName": "PossoBeber",
-        "projectPath": "C:\\HTML-CSS\\Senac\\ProjetoIntegrador\\PossoBeber - Copia\\PossoBeber.csproj",
+        "projectPath": "C:\\HTML-CSS\\Senac\\ProjetoIntegradorII\\PossoBeber\\PossoBeber.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\HTML-CSS\\Senac\\ProjetoIntegrador\\PossoBeber - Copia\\obj\\",
+        "outputPath": "C:\\HTML-CSS\\Senac\\ProjetoIntegradorII\\PossoBeber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

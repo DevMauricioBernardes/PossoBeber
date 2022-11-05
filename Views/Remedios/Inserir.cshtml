@@ -10,23 +10,24 @@
 <form method="post" asp-action="Inserir">
 
     <p>
-        <label asp-for="Nome">Nome</label>
-        <input asp-for="Nome">
+        <input placeholder="Nome" asp-for="Nome">
     </p>
 
     <p>
-        <label asp-for="Posso">Posso beber?</label>
-        <input asp-for="Posso">
+        <label asp-for="Posso">Posso beber?</label>        
+        <select asp-for="Posso">
+            <option value="Sim">Sim</option>
+            <option value="Nao">Não</option>            
+        </select>
     </p>
 
     <p>
-        <label asp-for="Descricao">Descrição</label>
-        <input asp-for="Descricao" type="mediumtext">
+        <textarea placeholder="Descrição" asp-for="Descricao" type="mediumtext"></textarea>
     </p>
-     
+
     <input asp-for="Usuario" value=@Context.Session.GetInt32("IdUsuario") type="hidden">
     <p>
-        <input type="submit" value="Cadastrar">
+        <input class="btn btn-primary" type="submit" value="Cadastrar">
     </p>
 
 </form>

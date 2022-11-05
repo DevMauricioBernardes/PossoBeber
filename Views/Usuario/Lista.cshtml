@@ -13,7 +13,8 @@
                 <th>Senha</th>                
                 <th>Operações</th>
             </tr>
-        </thead>
+        </thead>            
+        <tbody>
             @foreach (Usuario u in Model)
             {
                 <tr>
@@ -23,12 +24,10 @@
                     <td>@u.Login</td>
                     <td>@u.Senha</td>                    
                     <td>
-                        <a href="/Usuario/Alterar?Id=@u.Id">Alterar</a> |
-                        <a href="/Usuario/Excluir?Id=@u.Id">Excluir</a>
+                        <a class="btn btn-warning" href="/Usuario/Alterar?Id=@u.Id">Alterar</a> |
+                        <a class="btn btn-danger" href="/Usuario/Excluir?Id=@u.Id">Excluir</a>
                     </td>
                 </tr>
             }
-        <tbody>
-
         </tbody>    
     </table>

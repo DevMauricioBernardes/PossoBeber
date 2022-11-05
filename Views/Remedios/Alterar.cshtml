@@ -15,8 +15,11 @@
     </p>
 
     <p>
-        <label asp-for="Posso">Posso beber?</label>
-        <input asp-for="Posso">
+        <label asp-for="Posso">Posso beber?</label>        
+        <select asp-for="Posso">
+            <option value="Sim">Sim</option>
+            <option value="Nao">Não</option>            
+        </select>
     </p>
 
     <p>
@@ -27,7 +30,7 @@
     <input asp-for="Usuario" value=@Context.Session.GetInt32("IdUsuario") type="hidden">
     <p>
         <input asp-for="Id" type="hidden">
-        <input type="submit" value="Alterar">
+        <input class="btn btn-primary" type="submit" value="Alterar">
     </p>
 
 </form>
