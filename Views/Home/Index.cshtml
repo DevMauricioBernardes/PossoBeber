@@ -1,28 +1,33 @@
 ﻿@model Remedios
 @using Microsoft.AspNetCore.Http
-
 @{
     ViewData["Title"] = "Home Page";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Posso Beber???</h1>
-
-    <form method="post" asp-controller="Remedios" asp-action="Buscar">
-
-        <p>            
-        <input asp-for="Nome" required placeholder="Medicamento:">
-        </p>    
-        <p>
-        <input class="btn btn-primary" type="submit" value="Buscar">        
-        </p>
-    </form>
-
-    <img src="/img/ok.png" alt="ok">
-    <img src="/img/not.png" alt="ok">
-
-    <p>
-        @ViewBag.mensagem
-    </p>
-
+<div class="row">
+    <div class='col'>
+        <h1 class="display-4">Posso Beber??? </h1>
+    </div>
 </div>
+
+<form method="post" asp-controller="Remedios" asp-action="Buscar">
+    <div class="row">
+        <div class='col-12 col-md-3 col-lg-2 col-xl-1'>
+            <label asp-for="Nome">Medicamento:</label>
+        </div>
+        <div class='col-12 col-md-9'>
+             <input asp-for="Nome" required placeholder="Nome do medicamento">
+        </div>
+    </div>
+    <div class="row">
+            <div class='col'>
+                <img src="/img/ok.png" alt="ok" width="100">
+                <img src="/img/not.png" alt="ok" width="100">
+                @ViewBag.mensagem
+            </div>
+        </div>
+    <div class="row">
+        <div class='col'>
+            <input class="btn btn-primary" type="submit" value="Buscar">
+        </div>
+    </div>
+</form>
