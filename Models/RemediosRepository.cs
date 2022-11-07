@@ -195,11 +195,10 @@ namespace PossoBeber.Models
 
             //executa o comando e guarda as informaçoes no objeto da classe MySqlDataReader
             MySqlDataReader Reader = Comando.ExecuteReader();
-            Console.WriteLine(Reader.HasRows);
-            Console.WriteLine("teste");
+            
             //percorrer registro a registro o Reader retornado
             while(Reader.Read()){
-                Console.WriteLine("teste2");
+                
                 Remedios remedioEncontrado = new Remedios();
 
                 remedioEncontrado.Id = Reader.GetInt32("Id");

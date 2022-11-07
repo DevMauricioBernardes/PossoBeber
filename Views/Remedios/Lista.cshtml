@@ -30,12 +30,26 @@
                     @if (Context.Session.GetInt32("IdUsuario")==null)
                     {  //usuario deslogado ve isso                    
                         <td>@u.Nome</td>
-                        <td>@u.Posso</td>
+                        <td>@u.Posso @if (@u.Posso=="Sim")
+                        {
+                            <img src="/img/ok.png" alt="ok" width="100">
+                        }else
+                        {
+                            <img src="/img/not.png" alt="ok" width="100">
+                        }
+                        </td>
                         <td>@u.Descricao</td>                                        
                     }  else{ //usuario logado ve isso
                         <td>@u.Id</td>
                         <td>@u.Nome</td>
-                        <td>@u.Posso</td>
+                        <td>@u.Posso @if (@u.Posso=="Sim")
+                        {
+                            <img src="/img/ok.png" alt="ok" width="100">
+                        }else
+                        {
+                            <img src="/img/not.png" alt="ok" width="100">
+                        }
+                        </td>
                         <td>@u.Descricao</td>                    
                         <td>@u.Usuario</td>
                         <td>

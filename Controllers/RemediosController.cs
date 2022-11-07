@@ -23,8 +23,7 @@ namespace PossoBeber.Controllers
         public IActionResult Buscar(string Nome){
 
             RemediosRepository ur = new RemediosRepository();
-            List<Remedios> lista = ur.Buscar(Nome);
-            ViewData["Nome"] = Nome;           
+            List<Remedios> lista = ur.Buscar(Nome);                       
             return View(lista);
             
         }          

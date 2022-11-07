@@ -3,31 +3,33 @@
 @{
     ViewData["Title"] = "Cadastro";
 }
-<h1>@ViewData["Title"]</h1>
+<div class="cadastro">   
+    <h1>@ViewData["Title"]</h1>
 
-<p class="text-danger">@ViewData["mensagem"]</p>
+    <p class="text-danger">@ViewData["mensagem"]</p>
 
-<form method="post" asp-action="Inserir">
+    <form method="post" asp-action="Inserir">
 
-    <p>
-        <input placeholder="Nome" asp-for="Nome">
-    </p>
+        <p>
+            <input class="inputRemedio" placeholder=" Nome" asp-for="Nome">
+        </p>
 
-    <p>
-        <label asp-for="Posso">Posso beber?</label>        
-        <select asp-for="Posso">
-            <option value="Sim">Sim</option>
-            <option value="Nao">Não</option>            
-        </select>
-    </p>
+        <p>
+            <label asp-for="Posso">Posso beber?</label>        
+            <select asp-for="Posso">
+                <option value="Sim"> Sim</option>
+                <option value="Não"> Não</option>            
+            </select>
+        </p>
 
-    <p>
-        <textarea placeholder="Descrição" asp-for="Descricao" type="mediumtext"></textarea>
-    </p>
+        <p>
+            <textarea class="textarea" placeholder=" Descrição" asp-for="Descricao" type="mediumtext"></textarea>
+        </p>
 
-    <input asp-for="Usuario" value=@Context.Session.GetInt32("IdUsuario") type="hidden">
-    <p>
-        <input class="btn btn-primary" type="submit" value="Cadastrar">
-    </p>
+        <input asp-for="Usuario" value=@Context.Session.GetInt32("IdUsuario") type="hidden">
+        <p>
+            <input class="btn btn-primary" type="submit" value="Cadastrar">
+        </p>
 
-</form>
+    </form>
+</div> 

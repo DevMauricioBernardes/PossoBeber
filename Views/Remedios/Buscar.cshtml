@@ -1,57 +1,81 @@
 @using Microsoft.AspNetCore.Http;
 @model List<Remedios>
 @{
+
     ViewData["Title"] = "Buscar";
-    }
-    @ViewData["Nome"]
-    <table class="table">
-        <thead>
-            <tr>
-                 @if (Context.Session.GetInt32("IdUsuario")==null)
-                {  //usuario deslogado ve isso                    
-                    <th>Nome</th>
-                    <th>Posso beber?</th>
-                    <th>Descrição</th>                    
-                }  else{ //usuario logado ve isso
-                    <th>Id</th>
-                    <th>Nome</th>
-                    <th>Posso beber?</th>
-                    <th>Descrição</th>                    
-                    <th>Usuário</th>
-                    <th>Editar</th>
-                }
-            </tr>
-        </thead>
-            
-        <tbody>  
-            @foreach (Remedios u in Model)
-            {                
-                <tr>
-                    @if (Context.Session.GetInt32("IdUsuario")==null)
-                    {  //usuario deslogado ve isso                    
-                        <td>@u.Nome</td>
-                        <td>@u.Posso</td>
-                        <td>@u.Descricao</td>                                        
-                    }  else{ //usuario logado ve isso
-                        <td>@u.Id</td>
-                        <td>@u.Nome</td>
-                        <td>@u.Posso</td>
-                        <td>@u.Descricao</td>                    
-                        <td>@u.Usuario</td>
-                        <td>
-                            <a href="/Remedios/Alterar?Id=@u.Id">Alterar</a> |
-                            <a href="/Remedios/Excluir?Id=@u.Id">Excluir</a>
-                        </td>                    
-                    }
-                </tr>
-            }          
-        </tbody>    
-    </table>
-
-@if (Context.Session.GetInt32("IdUsuario")==null){  
-    //usuario deslogado ve isso
-
-}  else{
-    //usuario logado ve isso
-    <a href="/Remedios/Inserir">Adicionar Medicamento</a>
 }
+@ViewData["Nome"]
+
+
+    @foreach (Remedios u in Model)
+
+    {
+        <div class="resultado">
+
+            @if (Context.Session.GetInt32("IdUsuario") == null)
+
+            { //usuario deslogado ve isso
+                <h1>@u.Nome</h1>
+                <p>
+                    @if (@u.Posso == "Sim")
+
+                    {
+                        <img src="/img/ok.png" alt="ok" width="100">
+
+                    }
+                    else
+
+                    {
+                        <img src="/img/not.png" alt="ok" width="100">
+
+                    }
+                </p>
+                <p>@u.Descricao</p>
+            }
+            else
+
+            { //usuario logado ve isso
+                <h1>@u.Nome</h1>
+                <p>
+                    @if (@u.Posso == "Sim")
+
+                    {
+                        <img src="/img/ok.png" alt="ok" width="100">
+
+                    }
+                    else
+
+                    {
+                        <img src="/img/not.png" alt="ok" width="100">
+
+                    }
+                </p>
+                <p>@u.Descricao</p>
+                <p>@u.Id</p>
+                <p>@u.Usuario</p>
+                <p>
+                    <a class="btn btn-warning" href="/Remedios/Alterar?Id=@u.Id">Alterar</a>
+                    <a class="btn btn-danger" href="/Remedios/Excluir?Id=@u.Id">Excluir</a>
+                </p>
+
+            }
+
+        </div>
+    }
+
+
+    @if (Context.Session.GetInt32("IdUsuario") == null)
+    {
+
+        //usuario deslogado ve isso
+
+
+
+    }
+    else
+    {
+
+        //usuario logado ve isso
+        <a class="btn btn-success" href="/Remedios/Inserir">Adicionar Medicamento</a>
+
+    }
