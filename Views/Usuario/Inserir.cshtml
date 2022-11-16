@@ -7,26 +7,30 @@
 
     <p class="text-danger">@ViewData["mensagem"]</p>
 
-    <form method="post" asp-action="Inserir">
+    <form method="post" asp-action="Inserir" name="cadastro" onsubmit="return valida_cadastro(this);">
 
         <p>
-            <label asp-for="Nome">Nome</label>
+            <label asp-for="Nome">Nome</label>            
             <input asp-for="Nome">
+            <span class="msg-erro msg-nome"></span>
         </p>
 
         <p>
-            <label asp-for="Email">E-mail</label>
+            <label asp-for="Email">E-mail</label>            
             <input asp-for="Email">
+            <span class="msg-erro msg-email"></span>
         </p>
 
         <p>
             <label asp-for="Login">Login</label>
             <input asp-for="Login">
+            <span class="msg-erro msg-login"></span>
         </p>
 
         <p>
-            <label asp-for="Senha">Senha</label>
+            <label asp-for="Senha">Senha</label>            
             <input asp-for="Senha">
+            <span class="msg-erro msg-senha"></span>
         </p>  
 
         <p>
@@ -34,4 +38,6 @@
         </p>
 
     </form>
-</div>    
+</div>  
+
+<script type="text/javascript" src="/js/site.js"></script>

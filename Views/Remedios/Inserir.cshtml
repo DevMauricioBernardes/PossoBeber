@@ -8,13 +8,14 @@
 
     <p class="text-danger">@ViewData["mensagem"]</p>
 
-    <form method="post" asp-action="Inserir">
+    <form method="post" asp-action="Inserir" name="form" onsubmit="return valida_formulario(this);">
 
         <p>
             <input class="inputRemedio" placeholder=" Nome" asp-for="Nome">
+            <span class="msg-erro msg-nome"></span>
         </p>
 
-        <p>
+        <p>            
             <label asp-for="Posso">Posso beber?</label>        
             <select asp-for="Posso">
                 <option value="Sim"> Sim</option>
@@ -22,8 +23,9 @@
             </select>
         </p>
 
-        <p>
+        <p>            
             <textarea class="textarea" placeholder=" Descrição" asp-for="Descricao" type="mediumtext"></textarea>
+            <span class="msg-erro msg-descricao"></span>
         </p>
 
         <input asp-for="Usuario" value=@Context.Session.GetInt32("IdUsuario") type="hidden">
@@ -33,3 +35,5 @@
 
     </form>
 </div> 
+
+<script type="text/javascript" src="/js/site.js"></script>

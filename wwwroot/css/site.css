@@ -114,7 +114,9 @@ h1{
 .inputRemedio{
   width: 300px;
 }
-
+.msg-erro{
+  color: red;
+}
 
 
 
