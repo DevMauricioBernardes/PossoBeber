@@ -7,17 +7,19 @@
     
     <h1 class="display-4">Posso Beber??? </h1>    
 
-    <form method="post" asp-controller="Remedios" asp-action="Buscar"> 
+    <form method="post" asp-controller="Remedios" asp-action="Buscar" name="busca" onsubmit="return valida_busca(this);"> 
                         
         @ViewBag.mensagem
                 
         <div class="row">
             <div class='col-12 col-md-10 inputBox'>
-                <input class="input" asp-for="Nome" required placeholder="Nome do medicamento">
+                <input class="input" asp-for="Nome" placeholder="Nome do medicamento">
+                
             </div>
             <div class='col-12 col-md-2 botao'>
                 <input class="btn btn-primary" type="submit" value="Buscar">
             </div>
         </div>
+        <span class="msg-erro msg-nome"></span>
     </form>
 </div>

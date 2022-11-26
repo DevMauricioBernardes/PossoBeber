@@ -136,7 +136,6 @@ C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\P
 C:\HTML-CSS\Senac\ProjetoIntegrador\PossoBeber - Copia\obj\Debug\netcoreapp3.1\Razor\Views\Remedios\Buscar.cshtml.g.cs
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\appsettings.json
-C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.exe
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.deps.json
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.runtimeconfig.json
@@ -147,7 +146,6 @@ C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\PossoBe
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\PossoBeber.Views.pdb
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csprojAssemblyReference.cache
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.AssemblyInfoInputs.cache
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.AssemblyInfo.cs
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csproj.CoreCompileInputs.cache
@@ -176,7 +174,13 @@ C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBe
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.Views.pdb
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csproj.CopyComplete
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\PossoBeber.StaticWebAssets.Manifest.cache
-C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\PossoBeber.StaticWebAssets.xml
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.dll
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.pdb
 C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.genruntimeconfig.cache
+C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.csproj.AssemblyReference.cache
+C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\PossoBeber.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\PossoBeber.StaticWebAssets.Pack.cache
+C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PossoBeber.Microsoft.AspNetCore.StaticWebAssets.props
+C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PossoBeber.props
+C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PossoBeber.props
+C:\HTML-CSS\Senac\ProjetoIntegradorII\PossoBeber\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PossoBeber.props

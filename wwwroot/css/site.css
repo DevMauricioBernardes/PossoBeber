@@ -7,6 +7,10 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+.navbar{
+  background-image: linear-gradient(to bottom,#ffc222, white);  
+}
+
 /* Provide sufficient contrast against white background */
 a {
   color: #0366d6;
@@ -14,14 +18,14 @@ a {
 
 .btn-primary {
   color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  background-color: #ffc222;
+  border-color: #ffc222;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  background-color: #ffc222;
+  border-color: #ffc222;
 }
 
 /* Sticky footer styles
@@ -66,8 +70,11 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
+  height: 100px;
   white-space: nowrap;
-  line-height: 60px; /* Vertically center the text there */
+  line-height: 60px; /* Vertically center the text there */  
+  background-image: linear-gradient(to bottom,white, #ffc222);
+  
 }
 h1{
   padding-bottom: 10px;
@@ -118,5 +125,8 @@ h1{
   color: red;
 }
 
+.nav{
+  background-image: linear-gradient(to bottom,white, #ffc222);
+}
 
 

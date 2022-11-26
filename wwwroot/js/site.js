@@ -89,3 +89,22 @@ function valida_cadastro(cadastro) {
     return true;
 
 }
+
+function valida_busca(busca) {   
+
+    var nome = document.getElementById('Nome');
+
+    var caixa_nome = document.querySelector('.msg-nome');
+    caixa_nome.style.display = 'none';  
+    
+    
+    if (nome.value==""){
+        caixa_nome.innerHTML = "Campo obrigatório";
+        caixa_nome.style.display = 'block';               
+        nome.focus();        
+        return false;
+    }  
+
+    return true;
+
+}
